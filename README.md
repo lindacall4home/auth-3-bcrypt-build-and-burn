@@ -1,5 +1,5 @@
-#Authentication - Part 3 - ****crypt
-##Build and burn exercise
+# Authentication - Part 3 - Bcrypt
+## Build and burn exercise
 
 ### Instructions
 Edit the solution.js file and implement all the functions so all the tests pass.
